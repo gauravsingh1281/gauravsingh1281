@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Pratap Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<center><img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" style="width:65%;"></center>
+<center><img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" style="width:100%;"></center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsingh1281&label=Profile%20views&color=0e75b6&style=flat" alt="gauravsingh1281" /> </p>
 
