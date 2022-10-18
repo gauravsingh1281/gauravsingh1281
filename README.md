@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Pratap Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="https://youwebsolutionz.files.wordpress.com/2021/12/learn-web-designing.gif">
+<img width="350" src="https://youwebsolutionz.files.wordpress.com/2021/12/learn-web-designing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsingh1281&label=Profile%20views&color=0e75b6&style=flat" alt="gauravsingh1281" /> </p>
 
