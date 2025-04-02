@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gaurav Pratap Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN & PERN Stack Developer from India</h3>
 <img align="right" width="300" src="https://youwebsolutionz.files.wordpress.com/2021/12/learn-web-designing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsingh1281&label=Profile%20views&color=0e75b6&style=flat" alt="gauravsingh1281" /> </p>
 
 <p align="left"> <a href="https://twitter.com/gauravsingh1281" target="blank"><img src="https://img.shields.io/twitter/follow/gauravsingh1281?logo=twitter&style=for-the-badge" alt="gauravsingh1281" /></a> </p>
 
-- 🌱 I’m currently learning **React JS and Backend Development**
+- 🌱 I’m currently learning **Creative Web Development with Three.js, WebGL, GLSL Shaders & GSAP.**
 
 - 📫 How to reach me **gs492979@gmail.com**
 
